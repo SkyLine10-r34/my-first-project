@@ -1,0 +1,20 @@
+.header_nav {
+    background-color: var(--accent-color);
+    padding: 30px;
+    
+}
+
+@import url(https://fonts.googleapis.com/css2?family=Inter&display=swap);
+.header_nav-logo {
+    display: block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    line-height: normal;
+    background-color: var(--brand);
+    border: 3px solid #fff;
+    -webkit-box-shadow: 0 1px 2px 0 rgba(0,0,0,.11);
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.11)
+}
+
+
