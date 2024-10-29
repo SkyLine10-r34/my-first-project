@@ -1,0 +1,10 @@
+<header>
+            <div class="logo">SHINE PROFESSIONAL</div>
+            <nav>
+                <a href="about">About</a>
+                <a href="benefits">Benefits</a>
+                <a href="certificates">Certificates</a>
+                <a href="contacts">Contacts</a>
+            </nav>
+            <a href="order" class="order-button">Order Shine Box Now</a>
+        </header>
